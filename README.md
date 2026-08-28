@@ -6,12 +6,13 @@ Desarrollador junior. Me gusta construir software claro y aprender algo nuevo ca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-soto/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sotoperezjuanesteban@gmail.com)
+![Followers](https://img.shields.io/github/followers/rimak1?style=flat&logo=github&label=followers)
 
 </div>
 
 <br>
 
-### Tecnologías
+### Tecnologías y lenguajes
 
 <div align="center">
 
@@ -34,18 +35,3 @@ Desarrollador junior. Me gusta construir software claro y aprender algo nuevo ca
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rimak1&theme=default&hide_border=true" width="70%" />
-
-</div>
-
-<br>
-
-### Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rimak1&theme=flat&no-frame=true&margin-w=8&row=1&column=6" />
-
-</div>
