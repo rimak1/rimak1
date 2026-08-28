@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Juan Esteban 👋
+
 
 Desarrollador junior. Me gusta construir software claro y aprender algo nuevo cada día.
 
